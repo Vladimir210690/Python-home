@@ -5,5 +5,3 @@ window = Tk()
 window.title("Окно")
 window.mainloop()
 
-lbl = Label(window, text="Привет")  
-lbl.grid(column=0, row=0)  
